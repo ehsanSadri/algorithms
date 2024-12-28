@@ -1,6 +1,3 @@
-package binaryTreeSearch;
-
-
 import java.util.*;
 
 class Prim {

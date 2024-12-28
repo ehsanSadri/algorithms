@@ -1,5 +1,3 @@
-package binaryTreeSearch;
-
 public class BinarySearch {
     public static int iterativeBinSearch(int[] arr, int x) {
         int left = 0;
